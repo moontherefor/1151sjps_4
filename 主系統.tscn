@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://csmjmeyykwash"]
+
+[ext_resource type="Script" uid="uid://buvkkeft2o80d" path="res://主系統.gd" id="1_gw8vr"]
+
+[node name="主系統" type="Node2D" unique_id=1430806532]
+script = ExtResource("1_gw8vr")
