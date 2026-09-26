@@ -1,4 +1,4 @@
-# 這個腳本已經在.gitignore裡被排除，不會同步到github
+# 這個腳本將在.gitignore裡被排除，不會同步到github，請移除.example之後再使用
 
 # _ready()會在節點準備好時執行
 func _ready() -> void:
